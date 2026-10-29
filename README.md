@@ -1,7 +1,7 @@
 # Software-Development
-Author: Treyden Zufelt
-School: Southwest Technical College
-Course: Software Development
+- Author: Treyden Zufelt
+- School: Southwest Technical College
+- Course: Software Development
 
 ## Description
 This repository exists to store files for the course in Software Development I am taking.
