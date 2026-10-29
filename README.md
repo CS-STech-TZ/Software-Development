@@ -1,2 +1,2 @@
 # Software-Development
-Repository to be used for my next Computer Science class
+I will be using this repository to for my next Computer Science class: Software Development
